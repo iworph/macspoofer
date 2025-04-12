@@ -8,7 +8,7 @@ this macspoofer is my first proper linux bash project
 
 ## setup
 
-```chmod +rwx $route/to/macspoof.sh
+```chmod +rwx $route/to/macspoof.sh``
 $route/to/macspoof.sh```
 
 ### details
